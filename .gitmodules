@@ -1,3 +1,6 @@
 [submodule "libras"]
 	path = libras
 	url = https://github.com/hsouzaeduardo/libras
+[submodule "libras-ML"]
+	path = libras-ML
+	url = git@github.com:Davi-s-Brain/libras-ML.git
